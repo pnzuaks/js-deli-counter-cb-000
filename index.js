@@ -1,1 +1,1 @@
-var katzDeliLine = []
+var katzDeli = []
